@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "com.feliponius.mcr",
+              "sha256_cert_fingerprints": ["8C:3D:68:07:10:9A:84:75:32:59:6E:EB:D8:92:C6:A9:14:D5:AE:27:0F:4F:F4:C2:26:BB:99:D7:7D:9C:0E:14"] }
+}]
